@@ -1,4 +1,4 @@
-<h1>This minecraft shader is inspired by horror games like silent hill and this mod has multiple features that accomplishes that feat</h1>
+<h1>This minecraft shader is inspired by horror games like silent hill and this mod has multiple features that accomplishes that feat of scaring you</h1>
 <b>
 1. The clouds are made dark and realistic unlike vanilla minecraft clouds that don't seem intimidating. The clouds have movement added to them too.<br>
   <img width="1920" height="1080" alt="2026-03-30_23 43 25" src="https://github.com/user-attachments/assets/814fc4d9-357f-4ef0-89e4-c3d1d5980cce" />
